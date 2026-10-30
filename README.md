@@ -1,2 +1,2 @@
-# ml_zoomcamp
+# ml-zoomcamp
 Zoomcamp of machine learning fundemantals
